@@ -5,7 +5,7 @@ Modified as a group work
 
 #include <stdio.h>
 #include <windows.h>   // WinApi header
-#include <stdlib.h> // this pre-processor directive is required for malloc
+#include <stdlib.h> // this pre-processor directive is required for malloc kkkk
 
 // create the node user-defined data structure
 struct Node
