@@ -13,7 +13,7 @@ void FindRand(int num){
 
      }
 
-
+// rgthyjuyutyr
 
 
     int j,is_found=-1;
