@@ -20,8 +20,6 @@ int main()
     struct Node* head = NULL;
 
     // Allocation variables for choices
-    // Allocation variables for choices
-
     int choice;
     int i = 0;
     HANDLE  hConsole;
